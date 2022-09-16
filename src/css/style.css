@@ -336,6 +336,9 @@ header {
     font-size: 24px;
     cursor: pointer;
 }
+.dev-a{
+    color: white;
+}
 
 .two {
     position: absolute;
